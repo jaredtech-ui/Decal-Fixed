@@ -7,11 +7,11 @@ color:rgb(255, 255, 255);
 
 /* HERO SECTION */
 .hero{
-background-image: url("fxdlogo.jpg");
+background-image: url("images/fxdlogo.jpg");
 background-size: cover;
 background-position: center;
 text-align: center;
-padding:120px;
+padding:150px;
 position:relative;
 overflow:hidden;
 }
